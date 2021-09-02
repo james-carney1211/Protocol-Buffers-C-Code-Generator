@@ -127,12 +127,6 @@ The output is three files.
 
 If you generate code from multiple .proto files you must only include ProtocolParser.cs once in your project.
 
-## Direct Contact, FeedBack, Bugs
-
-You can contact me using phq@silentorbit.com .
-
-Public issues can also be submitted to the GitHub project page.
-
 # Licence, Apache License version 2.0
 
 All source code and generated code is licensed under the Apache License Version 2.0.
